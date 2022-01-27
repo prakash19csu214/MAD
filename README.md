@@ -1,1 +1,1 @@
-# MAD (Moblie Application Development)
+# MAD (Mobile Application Development)
